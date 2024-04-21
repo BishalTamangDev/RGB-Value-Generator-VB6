@@ -1,0 +1,2 @@
+Simple desktop application which allows the RGB value generation with the scroll bars which changes the values for each R, G & B values.<br><br>
+The values can be saved in the application also the values can be copied to the clipboard for external use.<br><br>
